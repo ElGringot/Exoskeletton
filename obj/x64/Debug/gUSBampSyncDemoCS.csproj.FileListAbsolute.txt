@@ -1,0 +1,7 @@
+C:\Program Files\gtec\gUSBampCAPI\Demo\C# (.NET)\bin\x64\Debug\gUSBampSyncDemoCS.exe.config
+C:\Program Files\gtec\gUSBampCAPI\Demo\C# (.NET)\bin\x64\Debug\gUSBampSyncDemoCS.exe
+C:\Program Files\gtec\gUSBampCAPI\Demo\C# (.NET)\bin\x64\Debug\gUSBampSyncDemoCS.pdb
+C:\Program Files\gtec\gUSBampCAPI\Demo\C# (.NET)\obj\x64\Debug\gUSBampSyncDemoCS.csproj.CoreCompileInputs.cache
+C:\Program Files\gtec\gUSBampCAPI\Demo\C# (.NET)\obj\x64\Debug\gUSBampSyncDemoCS.exe
+C:\Program Files\gtec\gUSBampCAPI\Demo\C# (.NET)\obj\x64\Debug\gUSBampSyncDemoCS.pdb
+C:\Program Files\gtec\gUSBampCAPI\Demo\C# (.NET)\obj\x64\Debug\gUSBampSyncDemoCS.csprojAssemblyReference.cache

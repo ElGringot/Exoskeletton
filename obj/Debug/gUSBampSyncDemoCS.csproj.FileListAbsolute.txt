@@ -1,0 +1,10 @@
+C:\Program Files\gtec\gUSBampCAPI\Demo\C# (.NET)\bin\Debug\gUSBampSyncDemoCS.exe.config
+C:\Program Files\gtec\gUSBampCAPI\Demo\C# (.NET)\bin\Debug\gUSBampSyncDemoCS.exe
+C:\Program Files\gtec\gUSBampCAPI\Demo\C# (.NET)\bin\Debug\gUSBampSyncDemoCS.pdb
+C:\Program Files\gtec\gUSBampCAPI\Demo\C# (.NET)\obj\Debug\gUSBampSyncDemoCS.csprojAssemblyReference.cache
+C:\Program Files\gtec\gUSBampCAPI\Demo\C# (.NET)\obj\Debug\gUSBampSyncDemoCS.csproj.CoreCompileInputs.cache
+C:\Program Files\gtec\gUSBampCAPI\Demo\C# (.NET)\obj\Debug\gUSBampSyncDemoCS.exe
+C:\Program Files\gtec\gUSBampCAPI\Demo\C# (.NET)\obj\Debug\gUSBampSyncDemoCS.pdb
+C:\Program Files\gtec\gUSBampCAPI\Demo\C# (.NET)\obj\Debug\gUSBampSyncDemoCS.Form1.resources
+C:\Program Files\gtec\gUSBampCAPI\Demo\C# (.NET)\obj\Debug\gUSBampSyncDemoCS.csproj.GenerateResource.cache
+C:\Program Files\gtec\gUSBampCAPI\Demo\C# (.NET)\obj\Debug\gUSBampSyncDemoCS.Properties.Resources.resources
